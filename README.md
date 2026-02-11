@@ -20,8 +20,7 @@ This project analyzes 5 years of daily OHLCV data for 20 top Nifty 50 stocks usi
 **Repository Structure**  
 
 📁 TradeWise-Nifty50-Analysis
-├── 📜 Nifty 50 Stock Analysis (Jupyter Notebook)
-├── 📜 Nifty 50 Stock Analysis Presentation (PPTX)
-├── 📁 data/
-│ └── combined_nifty_50_data.csv
-└── 📜 README.md
+| 📜 Nifty 50 Stock Analysis (Jupyter Notebook)
+| 📜 Nifty 50 Stock Analysis Presentation (PPTX)
+| combined_nifty_50_data.csv
+| README.md
