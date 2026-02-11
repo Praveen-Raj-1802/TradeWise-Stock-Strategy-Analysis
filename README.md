@@ -18,6 +18,7 @@ This project analyzes 5 years of daily OHLCV data for 20 top Nifty 50 stocks usi
 **Strategy Validation:** Moving average crossover captured uptrends effectively with positive win/loss ratios.  
 
 **Repository Structure**  
+
 📁 TradeWise-Nifty50-Analysis
 ├── 📜 Nifty 50 Stock Analysis (Jupyter Notebook)
 ├── 📜 Nifty 50 Stock Analysis Presentation (PPTX)
